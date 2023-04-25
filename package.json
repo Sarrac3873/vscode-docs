@@ -13,8 +13,8 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "husky": "^4.0.0",
-    "lint-staged": "^10.0.0",
+    "husky": "^5.0.0",
+    "lint-staged": "^11.2.4",
     "shelljs": "^0.7.8"
   },
   "lint-staged": {
